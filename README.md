@@ -1,60 +1,79 @@
 # HackerRank 3rd Semester Portfolio
 
-## Activity 8: Algorithmic Problem-Solving
+## 📌 About This Portfolio
 
-This repository contains my solutions for the five mandatory HackerRank problems completed as part of Activity 8.
+This repository contains my HackerRank algorithmic problem-solving solutions completed as part of the **3rd Semester Portfolio Building Activity**.
 
-## Problems
+The objective of this portfolio is to strengthen my understanding of:
 
-| No. | Problem | Language | Time Complexity | Space Complexity |
+- Problem-solving
+- Algorithms
+- Data structures
+- Time and space complexity
+- Python programming
+- Competitive programming
+- GitHub-based portfolio development
+
+---
+
+## 👨‍💻 Student Information
+
+**Name:** Yeshwanth S  
+**Program:** B.Tech – Computer Science and Information Technology  
+**University:** REVA University  
+**Semester:** 3rd Semester  
+**Programming Language:** Python 3
+
+---
+
+## 🔗 HackerRank Profile
+
+**HackerRank Profile:**  
+https://www.hackerrank.com/
+
+> Replace the link above with your actual public HackerRank profile URL.
+
+---
+
+## 🧩 Problems Solved
+
+The following five mandatory HackerRank problems are included in this portfolio:
+
+| No. | Problem | Topic | Time Complexity | Space Complexity |
 |---|---|---|---|---|
-| 1 | Diagonal Difference | Python 3 | O(N) | O(1) |
-| 2 | Dynamic Array | Python 3 | O(N + Q) | O(N) |
-| 3 | Time Conversion | Python 3 | O(1) | O(1) |
-| 4 | Compare the Triplets | Python 3 | O(1) | O(1) |
-| 5 | Sparse Arrays | Python 3 | O(N + Q) | O(N) |
+| 1 | Diagonal Difference | Arrays | O(N) | O(1) |
+| 2 | Dynamic Array | Data Structures | O(N + Q) | O(N) |
+| 3 | Time Conversion | Strings | O(1) | O(1) |
+| 4 | Compare the Triplets | Arrays | O(1) | O(1) |
+| 5 | Sparse Arrays | Data Structures | O(N + Q) | O(N) |
 
-## HackerRank Profile
+---
 
-Add your HackerRank profile link here.
+# 📂 Repository Structure
 
-## Solutions
-
-### 1. Diagonal Difference
-
-Calculates the absolute difference between the sums of the primary and secondary diagonals of a square matrix.
-
-### 2. Dynamic Array
-
-Uses dynamic sequences and bitwise XOR to process queries efficiently.
-
-### 3. Time Conversion
-
-Converts 12-hour AM/PM time format into 24-hour format.
-
-### 4. Compare the Triplets
-
-Compares corresponding elements and calculates the scores of Alice and Bob.
-
-### 5. Sparse Arrays
-
-Uses frequency mapping to efficiently count matching strings.
-
-## HackerRank Accepted Submissions
-
-Screenshots of the accepted HackerRank submissions will be added here.
-
-## Learning Outcomes
-
-- Improved algorithmic problem-solving skills
-- Practiced arrays and matrix traversal
-- Learned dynamic arrays and hash maps
-- Improved string manipulation
-- Understood time and space complexity
-- Practiced writing optimized solutions
-
-## Technology Used
-
-- Python 3
-- HackerRank
-- GitHub
+```text
+HackerRank-3rdSem-Portfolio/
+│
+├── README.md
+│
+├── 01-Diagonal-Difference/
+│   └── solution.py
+│
+├── 02-Dynamic-Array/
+│   └── solution.py
+│
+├── 03-Time-Conversion/
+│   └── solution.py
+│
+├── 04-Compare-the-Triplets/
+│   └── solution.py
+│
+├── 05-Sparse-Arrays/
+│   └── solution.py
+│
+└── screenshots/
+    ├── 01-Diagonal-Difference-Accepted.png
+    ├── 02-Dynamic-Array-Accepted.png
+    ├── 03-Time-Conversion-Accepted.png
+    ├── 04-Compare-the-Triplets-Accepted.png
+    └── 05-Sparse-Arrays-Accepted.png
