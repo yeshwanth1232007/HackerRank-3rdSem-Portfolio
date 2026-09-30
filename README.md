@@ -29,9 +29,15 @@ The objective of this portfolio is to strengthen my understanding of:
 ## 🔗 HackerRank Profile
 
 **HackerRank Profile:**  
-https://www.hackerrank.com/
+https://www.hackerrank.com/profile/yeshwanth1232007
 
-> Replace the link above with your actual public HackerRank profile URL.
+---
+
+## 🏆 HackerRank Achievement
+
+I have achieved the required **3-Star HackerRank Badge**.
+
+![HackerRank 3-Star Badge](./screenshots/HackerRank-3-Star-Badge.png)
 
 ---
 
@@ -41,11 +47,11 @@ The following five mandatory HackerRank problems are included in this portfolio:
 
 | No. | Problem | Topic | Time Complexity | Space Complexity |
 |---|---|---|---|---|
-| 1 | Diagonal Difference | Arrays | O(N) | O(1) |
+| 1 | Diagonal Difference | Arrays / Matrices | O(N) | O(1) |
 | 2 | Dynamic Array | Data Structures | O(N + Q) | O(N) |
-| 3 | Time Conversion | Strings | O(1) | O(1) |
-| 4 | Compare the Triplets | Arrays | O(1) | O(1) |
-| 5 | Sparse Arrays | Data Structures | O(N + Q) | O(N) |
+| 3 | Time Conversion | Strings & Logic | O(1) | O(1) |
+| 4 | Compare the Triplets | Basic Implementation | O(1) | O(1) |
+| 5 | Sparse Arrays | Hash Maps / Strings | O(N + Q) | O(N) |
 
 ---
 
@@ -76,4 +82,5 @@ HackerRank-3rdSem-Portfolio/
     ├── 02-Dynamic-Array-Accepted.png
     ├── 03-Time-Conversion-Accepted.png
     ├── 04-Compare-the-Triplets-Accepted.png
-    └── 05-Sparse-Arrays-Accepted.png
+    ├── 05-Sparse-Arrays-Accepted.png
+    └── HackerRank-3-Star-Badge.png
